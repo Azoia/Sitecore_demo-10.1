@@ -403,12 +403,3 @@ FodyWeavers.xsd
 # Additional files built by Visual Studio
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudio
-
-# Sitecore License
-/Sitecore License - 8.30.2023
-
-# Sitecore Backup
-/Site Backup
-
-# Ignore solr
-/solr
